@@ -1,0 +1,14 @@
+{
+     "namaDepan": "Budi",
+     "namaBelakang": "Sbudi",
+     "alamat": {
+         "namaJalan": "Jl. Sudirman 15A",
+         "kota": "Jakarta Selatan",
+         "provinsi": "DKI Jakarta",
+         "kodePos": 11111
+     },
+     "nomerTelepon": [ 
+         "021 555-1234",
+         "021 555-4567"
+     ]
+ }
